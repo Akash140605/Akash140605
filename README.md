@@ -36,7 +36,6 @@
 | 🐄 [**PashuSeva**](https://github.com/Akash140605/PashuSeva) | Livestock support platform for Indian farmers — buy and sell cattle feed (chara, bhusa) from local suppliers and consult verified vets | React · MUI · PHP · MySQL |
 | 🌿 [**PhasalAI**](https://github.com/Akash140605/phasalai) | Plant disease recognition — upload a leaf photo, a CNN model tells the disease and the cure | Python · Flask · TensorFlow |
 | 💸 [**Kharcha**](https://github.com/Akash140605/kharcha) | Offline money manager (PWA) — expenses and income, recurring auto-cut, split bills, budgets and analysis | HTML · JS · Service Worker |
-| 👥 [**HRSoft**](https://github.com/Akash140605/HRSoft) | HR tool with QR / barcode scanning for training and attendance | React · Tailwind · PHP |
 | 🔍 [**CodeMatcher**](https://github.com/Akash140605/codematcher) | Barcode matching station — scans a set of labels, checks every code matches and keeps a history | React · ZXing |
 | 🎬 [**Movie Recommender**](https://github.com/Akash140605/movie) | Content-based movie recommendation system | Python · scikit-learn · Streamlit |
 
